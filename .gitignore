@@ -1,0 +1,7 @@
+*.pkl
+*.zip
+data/
+.ipynb_checkpoints
+*.pdf
+*.tar
+
